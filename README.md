@@ -1,11 +1,9 @@
-# YapElite — judges' sideload build
+# YapElite — Android build for judges (v1.0.4, build 102)
 
-YapElite (RevenueCat Shipaton 2026 entry). Also on Google Play: https://play.google.com/store/apps/details?id=com.yapelite.yap_elite
+YapElite is also on Google Play: https://play.google.com/store/apps/details?id=com.yapelite.yap_elite
 
-Download `YapElite-1.0.4-b102.apk` from the Releases page, allow "install unknown apps" for your browser, and install.
+**Install:** download `YapElite-1.0.4-b102.apk` from this release, allow "Install unknown apps" for your browser, and open it.
 
-Version 1.0.4 (build 102) includes the RevenueCat paywall (speaker_pro / organizer_pro subscriptions, Featured Boost and Priority RFP consumables) and OneSignal.
+**What's in this build:** the RevenueCat paywall (speaker_pro and organizer_pro subscriptions, Featured Boost and Priority RFP purchases) and OneSignal notifications.
 
-Judge promo code for the paywall's "Redeem code" field: `SHIPATON-JUDGE-2026` (unlocks Pro for testing).
-
-Source code is private.
+**Unlock Pro without paying:** open any paywall, tap "Redeem code", and enter `SHIPATON-JUDGE-2026`.
